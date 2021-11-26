@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>curvedimage048.jpg</filename>
+	<path>D:\code\barcode-qrcode-images\images\curvedimage048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2172</width>
+		<height>2649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>626</xmin>
+			<ymin>1165</ymin>
+			<xmax>1301</xmax>
+			<ymax>1929</ymax>
+		</bndbox>
+	</object>
+</annotation>

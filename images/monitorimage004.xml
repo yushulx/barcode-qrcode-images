@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>monitorimage004.jpg</filename>
+	<path>D:\code\barcode-qrcode-images\images\monitorimage004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2574</width>
+		<height>2808</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>115</ymin>
+			<xmax>2434</xmax>
+			<ymax>2659</ymax>
+		</bndbox>
+	</object>
+</annotation>

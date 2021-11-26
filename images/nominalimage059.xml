@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>nominalimage059.jpg</filename>
+	<path>D:\code\barcode-qrcode-images\images\nominalimage059.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1635</width>
+		<height>1764</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>338</ymin>
+			<xmax>1176</xmax>
+			<ymax>1269</ymax>
+		</bndbox>
+	</object>
+</annotation>
