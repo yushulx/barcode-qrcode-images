@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>blurredimage006.jpg</filename>
+	<path>C:\Users\admin\Documents\code\models\workspace\training_demo\all\blurredimage006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1303</xmin>
+			<ymin>2069</ymin>
+			<xmax>2046</xmax>
+			<ymax>2782</ymax>
+		</bndbox>
+	</object>
+</annotation>
