@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v3SMS-Text.png</filename>
+	<path>D:\code\barcode-qrcode-images\images\v3SMS-Text.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>23</ymin>
+			<xmax>305</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

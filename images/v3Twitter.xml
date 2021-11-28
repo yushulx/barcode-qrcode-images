@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v3Twitter.png</filename>
+	<path>D:\code\barcode-qrcode-images\images\v3Twitter.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>22</ymin>
+			<xmax>371</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v2VCard-BasicWikipedia.png</filename>
+	<path>D:\code\barcode-qrcode-images\images\v2VCard-BasicWikipedia.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>744</width>
+		<height>744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>19</ymin>
+			<xmax>724</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>

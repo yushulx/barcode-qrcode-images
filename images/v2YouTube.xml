@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v2YouTube.png</filename>
+	<path>D:\code\barcode-qrcode-images\images\v2YouTube.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>22</ymin>
+			<xmax>307</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

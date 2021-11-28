@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v2VCard-Title.png</filename>
+	<path>D:\code\barcode-qrcode-images\images\v2VCard-Title.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>456</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>22</ymin>
+			<xmax>431</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>shadowsimage013.jpg</filename>
+	<path>D:\code\barcode-qrcode-images\images\shadowsimage013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR_CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>224</ymin>
+			<xmax>634</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>
