@@ -11,5 +11,12 @@ A dataset of images (from [boofcv.org](https://boofcv.org/index.php?title=Perfor
 - https://www.mdpi.com/2313-433X/7/9/163/htm#app1-jimaging-07-00163
   - https://www.mdpi.com/article/10.3390/jimaging7090163/s1
 
-## Annotation Tool
+## Manual Annotation Tool
 https://github.com/yushulx/labelImg
+
+## Auto Annotation Tool
+
+```bash
+cd barcode-annotation-generator
+python barcode_annotation_generator.py -i <barcode image set>
+```
