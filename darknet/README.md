@@ -10,13 +10,13 @@
 2. Train the weights:
     
     ```bash
-    darknet detector train data/obj.data yolov4-tiny-custom.cfg yolov4-tiny.conv.29
+    darknet detector train data/obj.data yolov4-tiny-custom-640.cfg yolov4-tiny.conv.29
     ```
 
 3. Test the Qr detector:
     
     ```bash
-    darknet detector test data/obj.data yolov4-tiny-custom.cfg backup/yolov4-tiny-custom_last.weights sample/test.png
+    darknet detector test data/obj.data yolov4-tiny-custom-640.cfg backup/yolov4-tiny-custom-640_last.weights sample/test01.png
     ```
 
 ## Sample Usage
