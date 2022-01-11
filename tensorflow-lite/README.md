@@ -7,7 +7,6 @@
 2. Partition the image set:
     
     ```bash
-    cd tensorflow
     python partition_dataset.py -x -i ../images -r 0.1 -o ./
     ```
 3. Train the model:
