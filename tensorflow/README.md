@@ -64,12 +64,23 @@
 5. Train the model.
     
     ```bash
-    python model_main_tf2.py --model_dir=models/my_ssd_resnet50_v1_fpn --pipeline_config_path=models/my_ssd_resnet50_v1_fpn/pipeline.config --checkpoint_dir=models/my_ssd_resnet50_v1_fpn
+    python model_main_tf2.py --model_dir=models/my_ssd_resnet50_v1_fpn --pipeline_config_path=models/my_ssd_resnet50_v1_fpn/pipeline.config
     ```
-6. Evaluate the trained model.
+6. Monitor the training progress:
     
     ```bash
     tensorboard --logdir=models/my_ssd_resnet50_v1_fpn
+    ```
+
+7. Evaluate the trained model.
+    
+    ```bash
+    python model_main_tf2.py --model_dir=models/my_ssd_resnet50_v1_fpn --pipeline_config_path=models/my_ssd_resnet50_v1_fpn/pipeline.config  --checkpoint_dir=models/my_ssd_resnet50_v1_fpn   
+    ```
+8. Export the model.
+    
+    ```bash
+    python .\exporter_main_v2.py --input_type image_tensor --pipeline_config_path .\models\my_ssd_resnet50_v1_fpn\pipeline.config --trained_checkpoint_dir .\models\my_ssd_resnet50_v1_fpn\ --output_directory .\exported-models\my_ssd_resnet50_v1_fpn
     ```
 
 ## References
